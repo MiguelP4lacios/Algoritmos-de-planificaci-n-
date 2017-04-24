@@ -1,8 +1,8 @@
 # Algoritmos-de-planificaci-n-
 
-install nodeJS, la version mas actual y estable
+install nodeJS, la version mas actual y estable---apt-get install node
 
-con npm intala readline-sync 
+con npm instala readline-sync---npm install readline-sync 
 
-ejcuta con node o nodejs el archivo fcfs.js
+ejecuta con node o nodejs el archivo fcfs.js-- node fcfs.js
 
