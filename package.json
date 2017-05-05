@@ -1,0 +1,23 @@
+{
+  "name": "algoritmos-de-planificacion",
+  "version": "1.0.0",
+  "description": "Algoritmos de planificacion de procesos",
+  "main": "fcfs.js",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node fcfs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mich150090/Algoritmos-de-planificaci-n-.git"
+  },
+  "author": "mich150090",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mich150090/Algoritmos-de-planificaci-n-/issues"
+  },
+  "homepage": "https://github.com/mich150090/Algoritmos-de-planificaci-n-#readme"
+}
